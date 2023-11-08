@@ -1,7 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Kavindu95.Kavindu95" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ravindumw.Ravindumw" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kavindu+Samarasinghe!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ravindu+Madusanka!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Srilanka 🇱🇰</h3>
@@ -10,18 +10,18 @@
 
 <div align="center">
  
- 🔭 I’m currently work in **IJSE Panadura**
+ 🔭 I’m currently doing **IJSE Panadura**
  
  🌱 I’m currently learning **React, JavaScript, Node.js, Java, SpringBoot, Angular**
 
- 💬 Ask me about **React, HTML5, CSS, Bootstrap, Java**
+ 💬 Ask me about **HTML5, CSS, Bootstrap, Java**
 
- ⚡ Fun fact **Playing Video Games & Youtubing when I'm in Free**
+ ⚡ Fun fact **Playing Any Sport & Youtubing when I'm in Free**
  
  </div>
  
 <div align="center"> 
-  <a href="mailto:kavindueng95@gmail.com">
+  <a href="mailto:ravindumadusanka998@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/kavindu-samarasinghe-0a7308255" target="_blank">
